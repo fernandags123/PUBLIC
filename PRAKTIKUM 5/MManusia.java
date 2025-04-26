@@ -16,12 +16,14 @@ public class MManusia {
         System.out.println("Pajak PNS p1 = " + p1.hitungPajak());
         System.out.println("Pajak Pengusaha pe1 = " + pe1.hitungPajak());
         System.out.println("Pajak Petani pt1 = " + pt1.hitungPajak());
+        System.out.println("Pajak PNS p2 = " + p2.hitungPajak());
 
         System.out.println();
 
         System.out.println("Masa Kerja p1 = " + p1.hitungMasaKerja());
         System.out.println("Masa Kerja pe1 = " + pe1.hitungMasaKerja());
         System.out.println("Masa Kerja pt1 = " + pt1.hitungMasaKerja());
+        System.out.println("Masa Kerja p2 = " + p2.hitungMasaKerja());
 
         System.out.println();
 
